@@ -8,7 +8,7 @@ www.dio.me
 
 #### Desafio 
 
-- Propósta: Controle de fluxo usando For e Exception em Java
+- Proposta: Controle de fluxo usando For e Exception em Java
 
 ## Controle de Fluxo - Desafio
 
